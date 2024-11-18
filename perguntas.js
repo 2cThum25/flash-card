@@ -3,7 +3,8 @@ criaCartao(
     'O que é cabo de rede',
     'Cabo de rede é o cabo cuja a função é passar internet para o computador'
 )
-
+/* Guilherme.Fidelis.2c.20/10/2024
+*/
 criaCartao(
     'Basquete',
     'O que é um crossover?',
